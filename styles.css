@@ -1,0 +1,4 @@
+/* Menu opciones */
+.nav-item.dropdown .dropdown-toggle::after {
+    content: none; /* Remove the default dropdown arrow */
+  }
